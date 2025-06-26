@@ -46,9 +46,11 @@ Sigue los pasos del menú para convertir entre monedas. ¡Y listo!
 ```
 src/
  └─ main/java/com/oneproyect/conversormonedas/
-     ├── ConversorMonedas.java       # Clase principal (interacción con el usuario)
-     ├── CurrencyService.java         # Lógica: obtiene tasas y convierte valores
-     └── ExchangeRateResponse.java    # Modelo de datos para respuesta JSON
+     ├── ConversorMonedas.java             # Clase principal (Main)
+     ├── service/
+     │   └── CurrencyService.java          # Lógica de negocio
+     └── classes/
+         └── ExchangeRateResponse.java     # DTO para respuesta de la API
 ```
 
 ---
