@@ -1,0 +1,3 @@
+com\oneproyect\conversormonedas\classes\ExchangeRateResponse.class
+com\oneproyect\conversormonedas\service\CurrencyService.class
+com\oneproyect\conversormonedas\CurrencyConverter.class
