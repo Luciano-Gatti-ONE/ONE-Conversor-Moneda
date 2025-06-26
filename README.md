@@ -75,7 +75,7 @@ Esta aplicación utiliza [ExchangeRate-API](https://www.exchangerate-api.com/), 
 ## ✍️ Autor
 
 **Luciano Emmanuel Gatti Flekenstein**  
-Aplicación creada como proyecto educativo y para mostrar buenas prácticas de desarrollo en Java, manejo de APIs y procesamiento numérico preciso.
+Aplicación creada como proyecto educativo para Oracle Next Education (ONE) y para mostrar buenas prácticas de desarrollo en Java, manejo de APIs y procesamiento numérico preciso.
 
 ---
 
